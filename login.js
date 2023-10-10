@@ -1,4 +1,3 @@
-// Sample user data (for demonstration, not secure)
 const users = [];
 
 const loginForm = document.getElementById("login-form");
